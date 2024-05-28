@@ -1,3 +1,5 @@
-Grupo: João Antonio Treto, Lucas Rizzi e Pedro Henrique Ril
+## TDE Spring Boot
 
-Para rodar o projeto basta executar o arquivo TDEAplication (src > main > java > com > tde_java > TDE)
+### Grupo: João Antonio Treto, Lucas Rizzi e Pedro Henrique Ril
+
+Para rodar o projeto basta executar o arquivo TDEApplication (src > main > java > com > tde_java > TDE)
